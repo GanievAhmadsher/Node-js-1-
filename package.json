@@ -1,0 +1,12 @@
+{
+  "name": "node-js-1",
+  "version": "1.0.0",
+  "description": "Node.js-1",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "G`aniev Ahmadsher",
+  "license": "ISC"
+}
